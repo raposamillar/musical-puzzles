@@ -1,1 +1,1 @@
-# musical-puzzles
+# Musical Puzzles
